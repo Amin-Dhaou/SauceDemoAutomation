@@ -1,0 +1,4 @@
+SauceTest\CheckoutPageTest.class
+SauceTest\LoginPageTest.class
+SauceTest\AdditemToCartTest.class
+utils\BaseTest.class
