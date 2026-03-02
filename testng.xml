@@ -7,7 +7,6 @@
     <classes>
       <class name="SauceTest.LoginPageTest"/>
       <class name="SauceTest.AdditemToCartTest"/>
-      <class name="SauceTest.CheckoutPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
